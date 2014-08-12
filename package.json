@@ -1,0 +1,26 @@
+{
+  "name": "canddi_plugin_wordpress",
+  "version": "1.0.0",
+  "description": "Wordpress plugin to install and run CANDDi on your site.  This is the development code - look in the build folder for the latest zip file",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Canddi/CANDDi_Plugin_Wordpress"
+  },
+  "keywords": [
+    "canddi",
+    "wordpress"
+  ],
+  "author": "canddi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Canddi/CANDDi_Plugin_Wordpress/issues"
+  },
+  "homepage": "http://www.canddi.com",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compress": "^0.10.0",
+    "grunt-s3": "^0.2.0-alpha.3",
+    "matchdep": "^0.3.0"
+  }
+}
